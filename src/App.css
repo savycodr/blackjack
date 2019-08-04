@@ -10,3 +10,7 @@ button {
   width: 80px;
   border-radius: 16px;
 }
+
+button:disabled {
+  opacity: 0.6;
+}
